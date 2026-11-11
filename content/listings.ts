@@ -51,7 +51,7 @@ export const listings: Listing[] = [
       "Work with our consultants to map your technology roadmap, assess risk, " +
       "and plan the systems your business needs over the next 12 months.",
     inquiry_type: "INQUIRE",
-    image_url: "/images/placeholder-consulting.svg",
+    image_url: "/images/eddy4.jpg",
   },
   {
     slug: "business-website-build",
@@ -61,7 +61,7 @@ export const listings: Listing[] = [
       "A fast, modern marketing website with a content system you can update " +
       "yourself. Request a quote and we will scope it with you.",
     inquiry_type: "QUOTE",
-    image_url: "/images/placeholder-web-dev.svg",
+    image_url: "/images/eddy3.jpg",
   },
   {
     slug: "inventory-management-app",
@@ -71,7 +71,7 @@ export const listings: Listing[] = [
       "A tailored inventory and ordering application built around your workflow. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
-    image_url: "/images/placeholder-custom-software.svg",
+    image_url: "/images/eddy1.png",
   },
    {
     slug: "Tenz Coaching,",
@@ -80,6 +80,6 @@ export const listings: Listing[] = [
     description:
       "From bronze to radiant.",
     inquiry_type: "DEMO",
-    image_url: "/images/Banorant.png",
+    image_url: "/images/eddy2.jpg",
   },
 ];
