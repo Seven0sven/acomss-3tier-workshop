@@ -73,4 +73,13 @@ export const listings: Listing[] = [
     inquiry_type: "DEMO",
     image_url: "/images/placeholder-custom-software.svg",
   },
+   {
+    slug: "Tenz Coaching,",
+    title: "Banorant Coaching ",
+    category: "CONSULTING",
+    description:
+      "From bronze to radiant.",
+    inquiry_type: "DEMO",
+    image_url: "/images/Banorant.png",
+  },
 ];
